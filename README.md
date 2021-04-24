@@ -10,6 +10,7 @@ I started off by typing into the web browser Google Chrome "Online Platform Use 
 
 ## Visualization
 ![Online platform use among U.S. boys and girls](https://raw.githubusercontent.com/SBeattieWSU/115_git_repo/main/000031.png)
+
 With help from my instructor for "Introduction to Data Analytics," I coded a bar graph that compares the percentages of online platform use between boys and girls. The blue bar indicates boys and the red bar indicates girls. Located at the bottom of the visual (x-axis), the online platforms are vertically listed to match with the values being measured as a percentage (y-axis). It is a simplistic graph, but puts on display interesting and relevant information nonetheless. Comparing the blue and red bars, boys seem to be on more platforms of entertainment (with the exception of Twitter), while girls are on more communication platforms.
 
 ## Analysis
